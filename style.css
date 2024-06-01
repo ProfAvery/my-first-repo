@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+
+li {
+  color: blue;
+}
+
+#games {
+    color: red;
+}
+
+.dark {
+    color: darkblue;
+}
+
+.highlight {
+    background-color: yellow;
+}
