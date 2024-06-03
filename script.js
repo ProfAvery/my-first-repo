@@ -1,3 +1,3 @@
 window.addEventListener('load', function() {
-    window.alert("This is an alert I made in a separate file!");
+    console.log("This is a log entry I made in a separate file!");
 });
